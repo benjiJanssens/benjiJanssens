@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**benjiJanssens/benjiJanssens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Benjamin Janssens, but you can call me benji.
+I have a passion for everything technology and gaming.
+I work as a Full Stack Developer at [Pàu](https://pau.be).
 
-Here are some ideas to get you started:
+#### Currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱 [AnyDrop](https://anydrop.io)
+- ✂️ [TrimPNG](https://trimpng.benjijanssens.com)
+- 💬 [PyTwitchChat](https://github.com/benjiJanssens/PyTwitchChat)
+- 🎮 [PyTwitchPlays](https://github.com/benjiJanssens/PyTwitchPlays)
+
+#### Want to know more?
+
+Take a look at [my website](https://benjijanssens.com).
