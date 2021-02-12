@@ -1,7 +1,7 @@
 ### Hello 👋
 
-My name is Benjamin Janssens, but you can call me benji.
-I have a passion for everything technology and gaming.
+My name is Benjamin Janssens, but you can call me benji.\
+I have a passion for everything technology and gaming.\
 I work as a Full Stack Developer at [Pàu](https://pau.be).
 
 #### Currently working on
